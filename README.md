@@ -12,4 +12,4 @@ A cada inserção deve-se verificar a posição a ser inserido o novo funcionár
 Sugiro que inclua uma função de impressão da lista para facilitar seu teste.
 
 
-2-  Elabore um programa que pode fazer todas as operações envolvendo listas.
+2-  Elabore um programa que pode fazer todas as operações envolvendo listas, em funções separadas.
